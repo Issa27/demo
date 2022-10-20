@@ -1,2 +1,2 @@
-Bonjour tout le monde
-I am the best
+Bonjour le monde
+git est un logiciel de gestion de versions décentralisé.
